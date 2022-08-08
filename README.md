@@ -1,3 +1,3 @@
 # Algorithm
 
-*[B tree]()
+* [B tree]()
